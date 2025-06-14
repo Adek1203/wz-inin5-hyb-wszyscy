@@ -1,4 +1,4 @@
-# Przewodnik po stolicach Europy
+--# Przewodnik po stolicach Europy
 
 Repozytorium stworzone w ramach projektu zaliczeniowego z przedmiotu **Zarządzanie Projektem Wdrożeniowym**.  
 Celem projektu jest stworzenie przewodnika po stolicach Europy w postaci prostej strony HTML zawierającej opisy i zdjęcia wybranych miast.
