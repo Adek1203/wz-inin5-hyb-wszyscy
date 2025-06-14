@@ -15,7 +15,8 @@ Celem projektu jest stworzenie przewodnika po stolicach Europy w postaci prostej
 
 ## Widok strony głównej
 
-![Zrzut ekranu](img/zrzut.jpg)
+![Zrzut ekranu](https://github.com/Adek1203/wz-inin5-hyb-wszyscy/blob/berlin-adrian/img/zrzut.jpg?raw=true)
+
 
 ---
 
