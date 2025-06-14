@@ -7,14 +7,14 @@ Celem projektu jest stworzenie przewodnika po stolicach Europy w postaci prostej
 
 ## Link do podglądu strony (GitHub Pages)
 
-[Kliknij tutaj, aby zobaczyć stronę](https://adek1203.github.io/wz-inin5-hyb-wszyscy/)  
+[Kliknij tutaj, aby zobaczyć stronę](https://github.com/Adek1203/wz-inin5-hyb-wszyscy)  
 *(Uwaga: link będzie działać tylko jeśli uruchomisz GitHub Pages w ustawieniach repozytorium)*
 
 ---
 
 ## Widok strony głównej
 
-![Zrzut ekranu](img/zrzut-strony-glownej.png)
+![Zrzut ekranu](img/zrzut.jpg)
 
 ---
 
