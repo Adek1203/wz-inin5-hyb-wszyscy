@@ -45,9 +45,3 @@ Każdy student odpowiada za jedną stolicę.
 - Git & GitHub
 - GitHub Pages
 - Trello (zarządzanie projektem)
-
----
-
-## Jak uruchomić
-
-1. Sklonuj repozytorium:
